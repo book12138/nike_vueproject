@@ -1,0 +1,27 @@
+body {
+  padding: opx;
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  background-color: #fafafa;
+  font-size: 14px;
+}
+
+.fl_left {
+  float: left;
+}
+
+.fl_right {
+  float: right;
+}
+
+.clr {
+  clear: both;
+}
+
+/* element ui的抽屉 */
+.el-drawer{
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
